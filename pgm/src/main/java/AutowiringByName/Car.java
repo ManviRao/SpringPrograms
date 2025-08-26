@@ -8,7 +8,7 @@ Car(){
 	
 }
 
-public void setSpec1(Specification spec) {
+public void setSpec(Specification spec) {
 	this.spec1 = spec;
 }
 
